@@ -141,4 +141,31 @@ img {
     .lessons .col {
         width: 100%;
     }
+
+    .steps .col {
+        width: 100%;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+        margin-bottom: 3rem;
+    }
+    
+    .why-us .col-right {
+        width: 100%;
+    }
+    
+    .steps {
+        margin: 0rem;
+        padding: 3rem 0;
+        color: #232946;
+        background: #eebbc3;
+    }
+
+    .why-us {
+        background: black;
+        margin: 0rem;
+        padding: 40px 0px;
+    }
+
 }
